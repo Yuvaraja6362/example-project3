@@ -1,1 +1,2 @@
 master or main
+main or submain
